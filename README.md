@@ -30,7 +30,8 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 ![Loading](<img width="1080" height="2364" alt="WhatsApp Image 2026-06-06 at 08 50 04 (1)" src="https://github.com/user-attachments/assets/32a5724e-0e9a-4304-976a-2833bc0a0d00" />
 
 )
-![Hasil](<img width="730" height="1600" alt="WhatsApp Image 2026-06-06 at 08 50 03" src="https://github.com/user-attachments/assets/c69fb057-cfda-4458-bbfa-959bade1e8a1" />
+![Hasil](<img width="730" height="1600" alt="WhatsApp Image 2026-06-06 at 08 50 03" src="https://github.com/user-attachments/assets/21706d23-da12-4205-970a-53c84b3ba7ac" />
+
 )
 
 ## Author
